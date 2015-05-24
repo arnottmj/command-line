@@ -1,0 +1,1 @@
+A bare bones description of the 'grep' command: it searches for a regular expression within file(s) and outputs which files it appears in together with a context. It can also be used to search for an expression within output that has been piped to it.
